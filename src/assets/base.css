@@ -1,0 +1,70 @@
+html {
+  overflow: hidden;
+}
+head {
+  overflow: hidden;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+  /* -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; */
+  font-family: 'Roboto';
+}
+
+._bold {
+  font-weight: 700;
+}
+
+._f_16px {
+  font-size: 16px;
+}
+._f_20px {
+  font-size: 20px;
+}
+._f_24px {
+  font-size: 24px;
+}
+._f_28px {
+  font-size: 28px;
+}
+._f_32px {
+  font-size: 32px;
+}
+._f_36px {
+  font-size: 36px;
+}
+._f_40px {
+  font-size: 40px;
+}
+._f_44px {
+  font-size: 44px;
+}
+._f_48px {
+  font-size: 48px;
+}
+._f_52px {
+  font-size: 52px;
+}
+._f_56px {
+  font-size: 56px;
+}
+._f_60px {
+  font-size: 60px;
+}
+._f_64px {
+  font-size: 64px;
+}
+._f_68px {
+  font-size: 68px;
+}
+._f_72px {
+  font-size: 72px;
+}
